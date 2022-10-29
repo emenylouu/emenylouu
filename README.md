@@ -1,9 +1,7 @@
-## Salut, I'm Emeny!👋
-
-## I'm a Software engineer
+## Hey Earthling! I'm Em, a Software engineer 👋 
 
 - 🦇 Check out my First NFT Gallery / Minter on the Internet Computer AKA IC : [Batman Returns]( https://hfbcr-daaaa-aaaai-qieta-cai.raw.ic0.app/)!
-- 🌱 I’m currently trying to learn everything lol.
+- 🌱 Currently trying to learn everything lol.
 - 🥅 2022 Goals: master (or get anywhere near that) Cloud technologies like K8s, Crossplane, Azure cloud, Helm, Docker, ArgoCD, CICD automation with Azure DevOps/ Gh actions, and Contribute to opensource web3 projects to lean more about the Blockchain and crypto.
 
 <a href="https://twitter.com/emenylu">
