@@ -1,4 +1,4 @@
-## Hey Earthling! I'm Em, a Software engineer 👋 
+## Hey Earthling(s)! I'm Em, a Software engineer 👋 
 
 - 🦇 Check out my First NFT Gallery / Minter on the Internet Computer AKA IC : [Batman Returns]( https://hfbcr-daaaa-aaaai-qieta-cai.raw.ic0.app/)!
 - 🌱 Currently trying to learn everything lol.
