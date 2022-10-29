@@ -27,7 +27,7 @@
     
 
 <a href="https://github.com/emenylouu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emenylouu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emenylouu&theme=dark" />
 </a>
 <a href="https://github.com/emenylouu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emenylouu&show_icons=true&theme=dark&line_height=27" alt="Em's github stats"/>
