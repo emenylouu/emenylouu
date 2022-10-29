@@ -1,10 +1,10 @@
-## Hola, I'm Emeny!👋
+## Salut, I'm Emeny!👋
 
 ## I'm a Software engineer
 
 - 🦇 Check out my First NFT Gallery / Minter on the Internet Computer AKA IC : [Batman Returns]( https://hfbcr-daaaa-aaaai-qieta-cai.raw.ic0.app/)!
-- 🌱 I’m currently trying to learn everything 🤣
-- 🥅 2022 Goals: Learn more about Cloud technologies, web3, The IC and crypto.
+- 🌱 I’m currently trying to learn everything lol.
+- 🥅 2022 Goals: master (or get anywhere near that) Cloud technologies like K8s, Crossplane, Azure cloud, Helm, Docker, ArgoCD, CICD automation with Azure DevOps/ Gh actions, and Contribute to opensource web3 projects to lean more about the Blockchain and crypto.
 
 <a href="https://twitter.com/emenylu">
   <img align="left" alt="Em's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,7 +27,7 @@
     
 
 <a href="https://github.com/emenylouu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emenylouu&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emenylouu" />
 </a>
 <a href="https://github.com/emenylouu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emenylouu&show_icons=true&theme=dark&line_height=27" alt="Em's github stats"/>
