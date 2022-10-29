@@ -7,13 +7,13 @@
 - 🥅 2022 Goals: master (or get anywhere near that) Cloud technologies like K8s, Crossplane, Azure cloud, Helm, Docker, ArgoCD, CICD automation with Azure DevOps/ Gh actions, and Contribute to opensource web3 projects to lean more about the Blockchain and crypto.
 
 <a href="https://twitter.com/emenylu">
-  <img align="left" alt="Em's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Em's Twitter" width="22px"  style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ameni-louhichi/">
-  <img align="left" alt="Em's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Em's Linkdein" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/emenylouu">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Pawan's Github" width="22px" style="color:white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
