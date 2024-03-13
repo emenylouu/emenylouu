@@ -1,9 +1,5 @@
 <div id="header" align="center">
   <div id="badges">
-
-<a href="https://twitter.com/emenylu">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
 <a href="https://www.linkedin.com/in/ameni-louhichi/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -20,10 +16,9 @@
   
   ### 🌞  About me :
 
-- 👩🏻‍💻 I'm a Software engineer
-- 🦇 Check out my First NFT Gallery / Minter on the Internet Computer AKA IC : [Batman Returns]( https://hfbcr-daaaa-aaaai-qieta-cai.raw.ic0.app/)!
-- 🌱 Currently learning Cloud technologies: K8s, Crossplane, Azure cloud, Helm, Docker, ArgoCD, CICD automation with Azure DevOps/ Gh actions.
-- 🥅 2022 extended Goals: Contribute to opensource projects, preferably web3 projects to lean more about Blockchain and crypto.
+- 👩🏻‍💻 SWE
+- 🦇 Check out my First NFT Gallery / Minter on the Internet Computer AKA IC : [Enter the realm]( https://hfbcr-daaaa-aaaai-qieta-cai.raw.ic0.app/)!
+-  Areas of Expertise : K8s, Crossplane, Azure cloud, Helm, Docker, ArgoCD, Terraform, CICD automation with Azure DevOps/ Gh actions.
 
 
 ---
